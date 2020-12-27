@@ -5,10 +5,10 @@ local head = nil
 local upAndAwayForce = Instance.new("BodyForce")
 
 local equalizingForce = 236 / 1.2 -- amount of force required to levitate a mass
-local gravity = 1.05 -- things float at > 1
+local gravity = 1.10 -- things float at > 1
 
 local height = nil
-local maxRise =  150
+local maxRise =  140
 
 function onTouched(part)
 
