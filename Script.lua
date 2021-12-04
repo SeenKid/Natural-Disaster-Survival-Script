@@ -3,32 +3,6 @@
 
 disasters={}
 
-
---X Meteor Storm
---X Flash Flood
---X Thunder Storm
---X Fire
---X Tornado
---X Tsunami
---O earthquake
---O Epidemic/Pandemic/zombie infection?
---O murderer
---O plane crash
---O alien attack
---O homing missiles
---O zombie attack
---O Zoo animal escape
---O Wild Bear Attack
---O Acid Rain
-
---[[geographically impossible disasters
-	-volcanic eruption
-	-sandstorm
-	-avilanch
-	-landslide
-	-sinkhole
-]]
-
 balloonvip=66670555
 
 mapradius=200
